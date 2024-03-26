@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/widget/static/css/main.a383ea9f.css",
-    "main.js": "/widget/static/js/main.eab52f70.js",
+    "main.js": "/widget/static/js/main.d46b5969.js",
     "static/js/4900.dc841c8d.chunk.js": "/widget/static/js/4900.dc841c8d.chunk.js",
     "static/js/1013.8ee9efcc.chunk.js": "/widget/static/js/1013.8ee9efcc.chunk.js",
     "static/js/2782.ec7d26bb.chunk.js": "/widget/static/js/2782.ec7d26bb.chunk.js",
@@ -83,10 +83,11 @@
     "static/css/662.296df26e.chunk.css": "/widget/static/css/662.296df26e.chunk.css",
     "static/css/9647.119fce60.chunk.css": "/widget/static/css/9647.119fce60.chunk.css",
     "static/js/9647.92dcff55.chunk.js": "/widget/static/js/9647.92dcff55.chunk.js",
-    "static/js/550.1daf9786.chunk.js": "/widget/static/js/550.1daf9786.chunk.js",
+    "static/js/550.30162a3d.chunk.js": "/widget/static/js/550.30162a3d.chunk.js",
     "index.html": "/widget/index.html",
+    "static/media/index.cjs": "/widget/static/media/index.cd351d7c31d0d3fccf96.cjs",
     "main.a383ea9f.css.map": "/widget/static/css/main.a383ea9f.css.map",
-    "main.eab52f70.js.map": "/widget/static/js/main.eab52f70.js.map",
+    "main.d46b5969.js.map": "/widget/static/js/main.d46b5969.js.map",
     "4900.dc841c8d.chunk.js.map": "/widget/static/js/4900.dc841c8d.chunk.js.map",
     "1013.8ee9efcc.chunk.js.map": "/widget/static/js/1013.8ee9efcc.chunk.js.map",
     "2782.ec7d26bb.chunk.js.map": "/widget/static/js/2782.ec7d26bb.chunk.js.map",
@@ -168,10 +169,10 @@
     "662.296df26e.chunk.css.map": "/widget/static/css/662.296df26e.chunk.css.map",
     "9647.119fce60.chunk.css.map": "/widget/static/css/9647.119fce60.chunk.css.map",
     "9647.92dcff55.chunk.js.map": "/widget/static/js/9647.92dcff55.chunk.js.map",
-    "550.1daf9786.chunk.js.map": "/widget/static/js/550.1daf9786.chunk.js.map"
+    "550.30162a3d.chunk.js.map": "/widget/static/js/550.30162a3d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a383ea9f.css",
-    "static/js/main.eab52f70.js"
+    "static/js/main.d46b5969.js"
   ]
 }
