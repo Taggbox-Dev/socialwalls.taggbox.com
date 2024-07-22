@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://socialwalls.taggbox.com/widget/static/css/main.b1fbb4a9.css",
-    "main.js": "https://socialwalls.taggbox.com/widget/static/js/main.97c7bd0d.js",
+    "main.js": "https://socialwalls.taggbox.com/widget/static/js/main.dea84219.js",
     "static/css/7550.d40c9834.chunk.css": "https://socialwalls.taggbox.com/widget/static/css/7550.d40c9834.chunk.css",
     "static/js/7550.7d76a138.chunk.js": "https://socialwalls.taggbox.com/widget/static/js/7550.7d76a138.chunk.js",
     "static/js/3690.c24687f6.chunk.js": "https://socialwalls.taggbox.com/widget/static/js/3690.c24687f6.chunk.js",
@@ -64,7 +64,7 @@
     "static/css/7802.237c129b.chunk.css": "https://socialwalls.taggbox.com/widget/static/css/7802.237c129b.chunk.css",
     "static/js/7802.5c112447.chunk.js": "https://socialwalls.taggbox.com/widget/static/js/7802.5c112447.chunk.js",
     "static/css/7087.63fc36a2.chunk.css": "https://socialwalls.taggbox.com/widget/static/css/7087.63fc36a2.chunk.css",
-    "static/js/7087.56665374.chunk.js": "https://socialwalls.taggbox.com/widget/static/js/7087.56665374.chunk.js",
+    "static/js/7087.61100f3e.chunk.js": "https://socialwalls.taggbox.com/widget/static/js/7087.61100f3e.chunk.js",
     "static/css/7552.a874cd83.chunk.css": "https://socialwalls.taggbox.com/widget/static/css/7552.a874cd83.chunk.css",
     "static/js/7552.2bed020f.chunk.js": "https://socialwalls.taggbox.com/widget/static/js/7552.2bed020f.chunk.js",
     "static/css/1256.a946089d.chunk.css": "https://socialwalls.taggbox.com/widget/static/css/1256.a946089d.chunk.css",
@@ -105,15 +105,15 @@
     "static/js/7699.1ad5e828.chunk.js": "https://socialwalls.taggbox.com/widget/static/js/7699.1ad5e828.chunk.js",
     "static/css/1544.85b124a3.chunk.css": "https://socialwalls.taggbox.com/widget/static/css/1544.85b124a3.chunk.css",
     "static/js/2789.62f6c9c4.chunk.js": "https://socialwalls.taggbox.com/widget/static/js/2789.62f6c9c4.chunk.js",
-    "static/js/3917.632243f9.chunk.js": "https://socialwalls.taggbox.com/widget/static/js/3917.632243f9.chunk.js",
+    "static/js/3917.aa7f944e.chunk.js": "https://socialwalls.taggbox.com/widget/static/js/3917.aa7f944e.chunk.js",
     "static/css/1484.5bf93181.chunk.css": "https://socialwalls.taggbox.com/widget/static/css/1484.5bf93181.chunk.css",
-    "static/js/8786.01947e07.chunk.js": "https://socialwalls.taggbox.com/widget/static/js/8786.01947e07.chunk.js",
+    "static/js/8786.143dbd71.chunk.js": "https://socialwalls.taggbox.com/widget/static/js/8786.143dbd71.chunk.js",
     "static/js/4693.55ddcadf.chunk.js": "https://socialwalls.taggbox.com/widget/static/js/4693.55ddcadf.chunk.js",
     "index.html": "https://socialwalls.taggbox.com/widget/index.html",
     "static/media/index.cjs": "https://socialwalls.taggbox.com/widget/static/media/index.cd351d7c31d0d3fccf96.cjs"
   },
   "entrypoints": [
     "static/css/main.b1fbb4a9.css",
-    "static/js/main.97c7bd0d.js"
+    "static/js/main.dea84219.js"
   ]
 }
