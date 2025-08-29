@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://socialwalls.taggbox.com/widget/static/css/main.bf669ea7.css",
+    "main.css": "https://socialwalls.taggbox.com/widget/static/css/main.5290e490.css",
     "main.js": "https://socialwalls.taggbox.com/widget/static/js/main.82075658.js",
     "static/js/854.f5994e91.chunk.js": "https://socialwalls.taggbox.com/widget/static/js/854.f5994e91.chunk.js",
     "static/js/8689.6465f4ea.chunk.js": "https://socialwalls.taggbox.com/widget/static/js/8689.6465f4ea.chunk.js",
@@ -206,7 +206,7 @@
     "index.html": "https://socialwalls.taggbox.com/widget/index.html"
   },
   "entrypoints": [
-    "static/css/main.bf669ea7.css",
+    "static/css/main.5290e490.css",
     "static/js/main.82075658.js"
   ]
 }
